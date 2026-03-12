@@ -11,3 +11,6 @@
 	path = Lending-Protocol 
 	url = https://github.com/AllenGeorge08/Meridian_Protocol
 
+[submodule "Lending-Protocol"]
+	path = Lending-Protocol
+	url = https://github.com/AllenGeorge08/Meridian_Protocol
