@@ -32,7 +32,23 @@ We appreciate your interest in contributing to our Solana programs repository. T
   - `[frameworkname]-counterapp`
   - `steel-counterapp` or `poseidon-counterapp`
 
-4. No need to update the table in `README.md`.
+### Submodule Submissions
+
+- You can also contribute by adding your program as a **Git submodule** instead of directly including the code
+- Submodule directory naming must follow the same conventions as above:
+  - Anchor programs: `anchor-<program-name>` (e.g., `anchor-amm`, `anchor-lending-protocol`)
+  - Native programs: `native-<program-name>`
+  - Other frameworks: `[frameworkname]-<program-name>` (e.g., `pinocchio-amm`, `pinocchio-vault`)
+- To add a submodule:
+  ```bash
+  git submodule add <your-repo-url> <framework>-<program-name>
+  ```
+  Example:
+  ```bash
+  git submodule add https://github.com/user/my-vault.git anchor-vault
+  ```
+
+4. Update the table in `README.md`.
 
 ### Code Quality
 
