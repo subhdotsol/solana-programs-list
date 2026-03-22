@@ -2,7 +2,7 @@
 
 use quasar_lang::prelude::*;
 
-declare_id!("4qm3iMXJFdPh8uH3uiWiDj9bBYUHaP5D1FGKQCD87kez");
+declare_id!("3mYtcSqqDqY5fmfyLMZyEcD9tdUZSBqMT1sCKRfndzVY");
 
 #[derive(Accounts)]
 pub struct Initialize<'info> {

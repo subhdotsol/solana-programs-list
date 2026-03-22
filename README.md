@@ -26,7 +26,7 @@ Each program is organized in its own dedicated folder with a clear naming conven
 - ✅ Tests Available
 - ❌ No Tests
 
-| Program                                                                                     | Description                      | Features                                      | ⚓ Anchor                            | 🦀 Native        |🤥Pinocchio  | ✨ Quasar |
+| Program                                                                                     | Description                      | Features                                      | ⚓ Anchor                            | 🦀 Native        |🤥Pinocchio  | ✨ Quasar (not stable) |
 |--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
 | Hello World     | Hello World               | `Hello World`                      | NIL       |  NIL      | [🤥 Program](https://github.com/4rjunc/solana-programs-list/tree/main/pinocchio-hello-world)  | [✨ Program](https://github.com/4rjunc/solana-programs-list/tree/main/quasar-hello-world) |
 | Arcium Hello World     | Arcium confidential computing demo               | `Arcium` `Confidential Computing` `CPI`                      | [⚓ Program](https://github.com/4rjunc/solana-programs-list/tree/main/anchor-arcium-hello-world) 🟡 ❌       |  NIL      | NIL  | NIL |
