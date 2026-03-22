@@ -22,10 +22,10 @@ mod quasar_counter {
         ctx.accounts.increment()
     }
 
-    //#[instruction(discriminator = 2)]
-    //pub fn decrement(ctx: Ctx<Initialize>) -> Result<(), ProgramError> {
-    //    ctx.accounts.initialize()
-    //}
+    #[instruction(discriminator = 2)]
+    pub fn decrement(ctx: Ctx<Decrement>) -> Result<(), ProgramError> {
+        ctx.accounts.decrement()
+    }
 }
 
 #[cfg(test)]
