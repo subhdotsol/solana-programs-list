@@ -1,5 +1,18 @@
 # Programs
 
+This file contains the full program index for the repository.
+
+For the repository overview, setup instructions, and the centered project banner, see [README.md](README.md).
+
+Programs are separated into individual tables by category for easier browsing.
+
+- [Core Concepts](#core-concepts)
+- [DeFi](#defi)
+- [NFTs and Tokens](#nfts-and-tokens)
+- [Data Structures](#data-structures)
+- [Games](#games)
+- [Privacy and Security](#privacy-and-security)
+
 ## Core Concepts
 
 | Program | Description | Implementations | Features |
